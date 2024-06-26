@@ -27,7 +27,4 @@ This project is a responsive website for an adventure tour company named "ADVENT
 2. **Responsive Design:**
    - Media queries adjust layout for mobile devices, including toggling the mobile menu and reformatting sections for smaller screens.
 
-### JavaScript
-
-- Toggles the mobile menu when the menu button is clicked.
 
